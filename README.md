@@ -12,3 +12,5 @@ Abre `actividades/` desde «Mis actividades» en el escritorio o en Inicio.
 - Para añadir trabajos, crea una subcarpeta en `actividades/` y agrega su tarjeta al índice.
 
 El archivo reúne actividades; no es una entrega de archivos ni un registro de resultados por alumno.
+
+- `actividades/pizzeria-monstruos/`: restaurante con 24 pedidos en 4 turnos. Multiplicación por descomposición, representación C/D/U, cambios de diez, cocina y decoración. Progreso local; sin datos personales.
